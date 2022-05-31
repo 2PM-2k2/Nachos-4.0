@@ -1,0 +1,10 @@
+{
+    "C_Cpp.dimInactiveRegions": false,
+    "cSpell.words": [
+        "plabel"
+    ],
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "typeinfo": "cpp"
+    }
+}
